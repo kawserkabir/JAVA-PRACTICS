@@ -8,8 +8,12 @@ class Funtionsadd{
 
     public static void main(String args []){
         Scanner sc = new Scanner(System.in);
+
+        System.out.println("input fst number");
         int a = sc.nextInt();
+        System.out.println("input 2nd number");
         int b = sc.nextInt();
+        System.out.println("the number of sum");
         int sum = AddNumber(a , b);
 
         System.out.println(sum);
