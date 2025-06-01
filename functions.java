@@ -9,7 +9,7 @@ class Funtions{
         Scanner sc = new Scanner(System.in);
         String name = sc.nextLine();
 
-        printmyname(name);
+        printmyname(name); //call the funtion
 
     }
 }
