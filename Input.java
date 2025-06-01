@@ -1,7 +1,7 @@
 import java.util.*;
 class Input{
     public static void main(String args[]){
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in); //input value from the user
         
         System.out.println("fast number");
         int a = sc.nextInt();
