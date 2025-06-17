@@ -1,7 +1,7 @@
 class SWITCH{
     public static void main(String args []){
 
-        int month = 7;
+        int month = 6;
         
             switch (month) {
             case 1 : System.out.println("January"); 
@@ -17,6 +17,14 @@ class SWITCH{
              case 6 : System.out.println("jun"); 
             break;
             case 7 : System.out.println("july"); 
+            break;
+            case 8 : System.out.println("Aug"); 
+            break;
+            case 9 : System.out.println("Sep"); 
+            break;
+             case 10 : System.out.println("Oct"); 
+            break;
+            case 11 : System.out.println("Nov"); 
             break;
             default : System.out.println("Invalid month");
         }
