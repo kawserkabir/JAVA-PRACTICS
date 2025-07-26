@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class kawser{
+class kawser55{
     public static void myname(String name){
         System.out.println(name);
         return;
