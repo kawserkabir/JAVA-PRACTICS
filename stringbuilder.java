@@ -7,5 +7,8 @@ class stringbuilder{
 
         sb.setCharAt(2 ,'g');
         System.out.println(sb);
+
+        sb.insert(0 , 'f');
+        System.out.println(sb);
     }
 }
