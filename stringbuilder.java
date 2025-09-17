@@ -10,5 +10,11 @@ class stringbuilder{
 
         sb.insert(0 , 'f');
         System.out.println(sb);
+
+        sb.delete(3 , 4);
+        System.out.println(sb);
+
+        sb.append("kswerf");
+        System.out.println(sb);
     }
 }
